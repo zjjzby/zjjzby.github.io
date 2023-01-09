@@ -52,5 +52,17 @@
       institution: University of Southern California
       year: Sep 2020 - now
 
-
+- title: Academic Sevices
+  type: map
+  contents:
+    - name: Reviewer 
+      value: microelectronics journal 
+    - name: Reviewer
+      value: Neurocomputing
+    - name: Reviewer
+      value: 16th International Conference on Solid-State and Integrated Circuit Technology (ICSICT 2022)
+    - name: Reviewer
+      value: 14th International Conference on ASIC (ASICON 2021)
+    - name: Reviewer
+      value: 2022 IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP)
 
