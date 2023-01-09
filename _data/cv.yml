@@ -15,13 +15,17 @@
       institution: University of Southern California, Los Angeles, USA
       year: 2019-now
       description:
-        - Computer Engnineering
+        - Major: Computer Engnineering
     - title: Master of Engineering
       institution:  State Key Laboratory of ASIC and System, Fudan University, Shanghai, China
       year: 2017-2019
+      description:
+        - Major: Integrated Circuit Engineering
     - title: Bachelor of Engineering
       institution: Department of Microelectronics, Fudan University, Shanghai, China
       year: 2013-2017
+      description:
+        - Major: Microelectronics Science and Engineering
 
 
 - title: Experience
