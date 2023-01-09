@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - zjjzby
+  - GraphSAINT
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - zjjzby/GNN-hardware-acceleration-paper
+  - zjjzby/HPEC2021
+  - GraphSAINT/GNN-ARCH
+
