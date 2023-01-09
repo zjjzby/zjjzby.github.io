@@ -1,25 +1,23 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Rajgopal":
+  - firstname: ["Kannan"]
+    url: https://scholar.google.com/citations?user=uXxUv0IAAAAJ&hl=en
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Viktor":
+  - firstname: ["Prasanna"]
+    url: https://sites.usc.edu/prasanna/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Hongkuan":
+  - firstname: ["Zhou"]
+    url: https://tedzhouhk.github.io/about/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Hanqing": 
+  - firstname: ["Zeng"]
+    url: https://hanqingzeng.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Yi-Chien":
+  - firstname: ["Lin"]
+    url: https://jasonlin316.github.io/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
 "Schrödinger":
   - firstname: ["Erwin"]
