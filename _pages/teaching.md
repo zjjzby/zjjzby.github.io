@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Fall-2020, Teaching assistant, CSCI-570, Analysis of Algorithms
 
-Organize your courses by years, topics, or universities, however you like!
+Spring-2021, Teaching assistant, CSCI-570, Analysis of Algorithms
+
+Spring-2022, Teaching assistant, CSCI-356, Introduction to Computer Systems
+
+Fall-2022, Teaching assistant, CSCI-356, Introduction to Computer Systems
