@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: SAR ATR
+description: Graph neural network based model-architecture codesign for SAR automatric target recognition
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
