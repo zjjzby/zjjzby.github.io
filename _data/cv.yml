@@ -59,10 +59,14 @@
 - title: Academic Sevices
   type: map
   contents:
+    - name: Technical Program Committee
+      value: The Thirteenth International Conference on Performance, Safety and Robustness in Complex Systems and Applications (PESARO 2023)
     - name: Reviewer 
       value: microelectronics journal 
     - name: Reviewer
       value: Neurocomputing
+    - name: Reviewer
+      value: Engineering Applications of Artificial Intelligence
     - name: Reviewer
       value: 16th International Conference on Solid-State and Integrated Circuit Technology (ICSICT 2022)
     - name: Reviewer
