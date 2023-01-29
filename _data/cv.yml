@@ -76,3 +76,84 @@
     - name: Reviewer
       value: 2022 IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP)
 
+
+
+- title: Selected Courses at University of Southern California (Ph.D.)
+  type: map
+  contents:
+    - name: CSCI-570 Analysis of Algorithms
+      value: my grade A
+    - name: EE-451 Parallel and Distributed Computation
+      value: my grade A
+    - name: EE-457 Computer Systems Organization 
+      value: my grade A
+    - name: CSCI-567 Machine Learning
+      value: my grade A
+    - name: EE-599 Accelerated Computing Using FPGAs 
+      value: my grade A
+    - name: EE-510 Linear Algebra for Engineering
+      value: my grade A
+    - name: EE-557 Computer Systems Architecture
+      value: my grade A
+    - name: EE-503 Probability for Electrical and Computer Engineers 
+      value:  my grade A
+    - name: CSCI-585 Database Systems 
+      value:  my grade A
+    - name: CSCI-561 Foundations of Artificial Intelligence
+      value:  my grade A
+
+
+- title: Selected Courses at Fudan University (Master level)
+  type: map
+  contents:
+    - name: Engineering Mathematics (ICE)
+      value: my grade A
+    - name: Advanced Analog IC Design
+      value: my grade A
+    - name: VLSI Testing and Testable Design
+      value: my grade A-
+    - name: Design and Application of the VLSI Backend
+      value: my grade A
+    - name: Digital Signal Processing VLSI Design
+      value: my grade A
+    - name: IC Reliability and Applications
+      value: my grade A-
+    - name: VLSI Circuit Manufacturing Technology at Nano-scale
+      value: my grade A-
+
+
+- title: Selected Courses at Fudan University (Bachelor level)
+  type: map
+  contents:
+    - name: Integrated Circuit Experiments
+      value: my grade A
+    - name: Digital Integrated Circuit Design
+      value: my grade A
+    - name: Design of Analog Integrated Circuits
+      value: my grade A
+    - name: Computer Vision
+      value: my grade A
+    - name: ASIC Design Methodology
+      value: my grade A
+    - name: Computer Architecture
+      value: my grade A
+    - name: Microcomputer and Interface Experiments
+      value: my grade A-
+    - name: Computer Architecture Software and Interface Technology
+      value:  my grade A
+    - name: Introduction to Digital Signal Processing A
+      value:  my grade A
+    - name: Analog and Digital Circuit Experiments II
+      value:  my grade A-
+    - name: Semiconductor Physics
+      value:  my grade A
+    - name: Signal and Communication System
+      value:  my grade A
+    - name: High Frequency Circuits A
+      value:  my grade A-
+    - name: Analog Circuit
+      value:  my grade A
+    - name: Probability, Mathematical Statistics and Stochastic Process
+      value:  my grade A
+    - name: C++ Programming
+      value:  my grade A
