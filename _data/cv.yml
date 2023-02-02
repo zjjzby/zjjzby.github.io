@@ -57,6 +57,8 @@
 - title: Academic Sevices
   type: map
   contents:
+    - name: Technical Program Committee
+      value: INFOCOMP 2023, The Thirteenth International Conference on Advanced Communications and Computation
     - name: Organizing Committee
       value: The 31st IEEE International Symposium On Field-Programmable Custom Computing Machines (FCCM 2023)
     - name: Technical Program Committee
@@ -74,7 +76,16 @@
     - name: Reviewer
       value: 2022 IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP)
 
-
+- title: Award
+  type: map
+  contents:
+    - name: China's First National College Student Integrated Circuit Innovation and Entrepreneurship Competition, Convolutional Neural Network (CNN) optimization, National 
+      value: Second Prize (third place)
+    - name: The 3rd National College Student Integrated Circuit Innovation and Entrepreneurship Competition
+      value: National Second Prize
+    - name: 2018 China National Scholarship for Graduate Students  
+      value: Top 1
+   
 
 - title: Selected Courses at University of Southern California (Ph.D.)
   type: map
