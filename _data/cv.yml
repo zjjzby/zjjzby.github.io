@@ -70,6 +70,10 @@
     - name: Reviewer
       value: Engineering Applications of Artificial Intelligence journal
     - name: Reviewer
+      value: IET Image Processing
+    - name: Reviewer
+      value: IEEE Transactions on Image Processing
+    - name: Reviewer
       value: 16th International Conference on Solid-State and Integrated Circuit Technology (ICSICT 2022)
     - name: Reviewer
       value: 14th International Conference on ASIC (ASICON 2021)
