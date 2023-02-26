@@ -70,6 +70,8 @@
     - name: Reviewer
       value: Engineering Applications of Artificial Intelligence journal
     - name: Reviewer
+      value: Information Sciences
+    - name: Reviewer
       value: IET Image Processing
     - name: Reviewer
       value: IEEE Transactions on Image Processing
