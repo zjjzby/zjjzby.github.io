@@ -27,4 +27,6 @@ Before I joined USC, I persued my master degree at State Key Laboratory of ASIC 
 
 *I am glad to serve as a reviewer for journal or conference papers, as well as a TPC member for conference or workshop, in the area of High Performance Computing, Reconfigurable Computing, Circuit and System, Digital Signal Processing, VLSI, Deep Learning, Machine Learning, Graph Analytics and Computing, etc. Please feel free to contact me through email: bingyizh@usc.edu
 
+<a href="https://clustrmaps.com/site/1bu9v"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=LhtyjuZxtABtH6YrEna8s5JIwSktaYeqHFO-ndnB2h4&cl=ffffff" /></a>
+
 
