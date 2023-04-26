@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=zjjzby&left_color=red&right_color=green)
+
 
 I am a fourth-year Ph.D. candidate in the Ming Hsieh Department of Electrical Engineering at USC. Currently, I am under the guidance of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). My research interest is high-performance and energy-efficient machine learning acceleration on FPGA and heterogeneous platform. Currently, I focus on sparse linear algebra acceleration on FPGA and graph neural network acceleration on FPGA.
 
