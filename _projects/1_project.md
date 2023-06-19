@@ -1,18 +1,14 @@
 ---
 layout: page
-title: GNN Acceleration
+title:  Accelerating Graph Neural Network
 description: Accelerating graph neural network
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
+Graph neural networks (GNNs) have achieved unprecedented success in graph-based machine learning. Compared with traditional algorithms, GNNs achieve superior performance for a wide variety of applications \cite{hu2020open}, such as recommendation systems, social media, etc. Low-latency GNN inference is needed in many real-world applications. 
+ 
     ---
     layout: page
     title: project
