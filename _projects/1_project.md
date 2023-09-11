@@ -2,7 +2,7 @@
 layout: page
 title:  (GraphAGILE) A Domain specific accelerator for GNNs
 description: A domain specific accelerator for graph neural network inference.
-img: assets/img/graphagile/graphagile-overview.png
+img: assets/img/graphagile/graphagileoverview.png
 importance: 1
 category: work
 ---
@@ -20,25 +20,11 @@ We implement GraphAGILE on a state-of-the-art FPGA platform, Xilinx Alveo U250. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/graphagile/graphagileoverview.png" title="Overview of GraphAGILE" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Overview of GraphAGILE.
 </div>
 
 You can also put regular text between your rows of images.
