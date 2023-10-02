@@ -27,7 +27,7 @@ Before I joined USC, I persued my master degree at State Key Laboratory of ASIC 
 
 *I am glad to serve as a reviewer for journal or conference papers, as well as a TPC member for conference or workshop, in the area of High Performance Computing, Reconfigurable Computing, Circuit and System, Digital Signal Processing, VLSI, Deep Learning, Machine Learning, Graph Analytics and Computing, etc. Please feel free to contact me through email: bingyizh@usc.edu
 
-I have servered as the reviewers for more than (>) 80 times for various journals and conference, including: 
+I have been invited and servered as the reviewers for more than (>) 80 times for various journals and conference, including: 
 
 - **journal** (> 70 times):  IEEE Transactions on Very Large Scale Integration Systems (TVLSI); IEEE Transactions on Image Processing (TIP); IET Computer Vision; IET Image Processing; Neurocomputing (NEUCOM); Engineering Applications of Artificial Intelligence (EAAI); Information Sciences;  Journal of Electronic Science and Technology; Microelectronics Journal; Microprocessors and Microsystems; 
 
