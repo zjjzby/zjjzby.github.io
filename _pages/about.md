@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-I am a fifth-year Ph.D. candidate in the Ming Hsieh Department of Electrical Engineering at USC. Currently, I am under the advisement of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). My research interest is high performance computin, computer architecture, reconfigurable computing, graph machine learning and VLSI. Currently, I focus on sparse linear algebra acceleration on FPGA and graph neural network acceleration on FPGA.
+I am a fifth-year Ph.D. candidate in the Ming Hsieh Department of Electrical Engineering at USC. Currently, I am under the advisement of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). My research interest is high performance computing (HPC), computer architecture, reconfigurable computing, graph machine learning and VLSI. Currently, I focus on sparse linear algebra acceleration on FPGA and graph neural network acceleration on FPGA.
 
 Before I joined USC, I persued my master degree at State Key Laboratory of ASIC and System at Fudan Universty, under the guidance of Professor [Jun Han](https://sme.fudan.edu.cn/5f/da/c31145a352218/page.htm) and Professor [Xiaoyang Zeng](https://sme.fudan.edu.cn/60/76/c31158a352374/page.htm).
 
