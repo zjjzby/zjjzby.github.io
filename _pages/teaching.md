@@ -22,6 +22,8 @@ Fall-2022, Teaching assistant, CSCI-356, Introduction to Computer Systems
 
 Yi Chien Lin (Ph.D.), submitted a 1st-author FPGA'2022 paper
 
+Dhruv Parikh (Ph.D.), submitted a 1st-author HPEC 2023 paper, a 1st-author FCCM 2024 paper, and a SPIE paper
+
 Madhav Aggarwal (Undergraduate student), submitted a 1st-author HiPC 2021 paper, Next Move: Cornell University for Master Degree
 
 Soundarya Jayaraman (Undergraduate student), submitted a 1st-author FPT 2022 paper
@@ -29,3 +31,4 @@ Soundarya Jayaraman (Undergraduate student), submitted a 1st-author FPT 2022 pap
 Paul Chen (Undergraduate student), submitted a 1st-author FPL 2023 paper
 
 Pavan Manjunath (Undergraduate student), submitted a 1st-coauthor FPL 2023 paper
+
