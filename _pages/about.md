@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-I am AI developer technology engineer in NVIDIA. I obtained my Ph.D. of computer engineering in USC. During my Ph.D., I was under the advisement of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). My research interest is high performance computing (HPC), compiler, computer architecture, reconfigurable computing, graph machine learning and VLSI. 
+I am an AI developer technology engineer in NVIDIA. I obtained my Ph.D. of computer engineering in USC. During my Ph.D., I was under the advisement of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). My research interest is high performance computing (HPC), compiler, computer architecture, reconfigurable computing, graph machine learning and VLSI. 
 
 Before I joined USC, I persued my master degree at State Key Laboratory of ASIC and System at Fudan Universty, under the guidance of Professor [Jun Han](https://sme.fudan.edu.cn/5f/da/c31145a352218/page.htm) and Professor [Xiaoyang Zeng](https://sme.fudan.edu.cn/60/76/c31158a352374/page.htm).
 
