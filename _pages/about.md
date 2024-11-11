@@ -25,6 +25,8 @@ I am an AI developer technology engineer in NVIDIA. I obtained my Ph.D. of compu
 
 Before I joined USC, I persued my master degree at State Key Laboratory of ASIC and System at Fudan Universty, under the guidance of Professor [Jun Han](https://sme.fudan.edu.cn/5f/da/c31145a352218/page.htm) and Professor [Xiaoyang Zeng](https://sme.fudan.edu.cn/60/76/c31158a352374/page.htm).
 
+My Ph.D. thesis: [Hardware-Software Codesign for Accelerating Graph Neural Networks on FPGA](https://www.proquest.com/openview/f3117d4ea8c40a83331ee7d4c12ddbad/1?pq-origsite=gscholar&cbl=18750&diss=y)
+
 
 I have been invited and served as the reviewer for more than (>) 80 times for various journals and conferences, including: 
 
