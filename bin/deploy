@@ -89,6 +89,16 @@ then
 fi
 git checkout -b $DEPLOY_BRANCH
 
+
+# --- 🩵 FIX STARTS HERE ---
+# Update bundler to a version that supports default gems properly
+echo "Updating Bundler..."
+gem install bundler -v "~> 2.4" --no-document
+
+# Install dependencies cleanly
+bundle install
+# --- 🩵 FIX ENDS HERE ---
+
 # Export JEKYLL_ENV=production
 export JEKYLL_ENV=production
 
