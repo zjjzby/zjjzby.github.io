@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Bingyi
 middle_name: 
 last_name: Zhang
-email: bingyizh@usc.edu
+email: bingyizh233@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -98,7 +98,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  bingyizh@usc.edu, bingyizh233@gmail.com, 
+  bingyizh233@gmail.com, 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
