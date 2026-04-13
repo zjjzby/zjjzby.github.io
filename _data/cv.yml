@@ -9,168 +9,67 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D.
+    - title: Ph.D. in Computer Engineering
       institution: University of Southern California, Los Angeles, USA
-      year: 2019-now
+      year: 2019 - 2024
       description:
-        - Major: Computer Engnineering
-    - title: Master of Engineering
-      institution:  State Key Laboratory of ASIC and System, Fudan University, Shanghai, China
-      year: 2017-2019
-      description:
-        - Major: Integrated Circuit Engineering
-    - title: Bachelor of Engineering
+        - "Advisor: Prof. Viktor K. Prasanna"
+        - "Thesis: Hardware-Software Codesign for Accelerating Graph Neural Networks on FPGA"
+    - title: M.Eng. in Integrated Circuit Engineering
+      institution: State Key Laboratory of ASIC and System, Fudan University, Shanghai, China
+      year: 2017 - 2019
+    - title: B.Eng. in Microelectronics Science and Engineering
       institution: Department of Microelectronics, Fudan University, Shanghai, China
-      year: 2013-2017
-      description:
-        - Major: Microelectronics Science and Engineering
+      year: 2013 - 2017
 
-
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title:  Internship
-      institution: ADANCED MICRO DEVICES, INC., Shanghai, China
-      year: Sep 2016 - Feb 2017
-      description:
-        - Verification of Bios for Ryzen CPU
-
-    - title: Teaching Assistant for CS570 -  Analysis of Algorithm
-      institution: University of Southern California
-      year: Sep 2020 - Dec 2020
-    
-
-    - title: Teaching Assistant for CS570 -- Analysis of Algorithm
-      institution: University of Southern California
-      year: Feb 2021 - Jun 2021 
-
-    - title: Teaching Assistant for CSCI356 Introduction to Computer Systems
-      institution: University of Southern California
-      year: Jan 2022 - Dec 2022
-      description:
-        - https://usc-cs356.github.io/
+    - title: AI Developer Technology Engineer
+      institution: NVIDIA
+      year: 2024 - Present
 
     - title: Research Assistant
+      institution: FPGA/Parallel Computing Lab, University of Southern California
+      year: 2019 - 2024
+      description:
+        - High-performance GNN inference and training on FPGA
+        - Hardware-software codesign for computer vision and SAR ATR applications
+        - Compiler and runtime system design for domain-specific accelerators
+
+    - title: Intern
+      institution: Advanced Micro Devices (AMD), Shanghai, China
+      year: Sep 2016 - Feb 2017
+      description:
+        - BIOS verification for Ryzen CPU
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: "Teaching Assistant: CSCI 356 Introduction to Computer Systems"
       institution: University of Southern California
-      year: Sep 2020 - now
+      year: Jan 2022 - Dec 2022
 
-- title: Academic Sevices
+    - title: "Teaching Assistant: CS 570 Analysis of Algorithms"
+      institution: University of Southern California
+      year: Sep 2020 - Jun 2021
+
+- title: Awards
   type: map
   contents:
-    - name: Technical Program Committee
-      value: INFOCOMP 2023, The Thirteenth International Conference on Advanced Communications and Computation
-    - name: Organizing Committee
-      value: The 31st IEEE International Symposium On Field-Programmable Custom Computing Machines (FCCM 2023)
-    - name: Technical Program Committee
-      value: The Thirteenth International Conference on Performance, Safety and Robustness in Complex Systems and Applications (PESARO 2023)
-    - name: Reviewer 
-      value: microelectronics journal 
-    - name: Reviewer
-      value: Neurocomputing journal
-    - name: Reviewer
-      value: Engineering Applications of Artificial Intelligence journal
-    - name: Reviewer
-      value: Information Sciences
-    - name: Reviewer
-      value: IET Image Processing
-    - name: Reviewer
-      value: IET Computer Vision
-    - name: Reviewer
-      value: IEEE Transactions on Image Processing
-    - name: Reviewer
-      value: 16th International Conference on Solid-State and Integrated Circuit Technology (ICSICT 2022)
-    - name: Reviewer
-      value: 14th International Conference on ASIC (ASICON 2021)
-    - name: Reviewer
-      value: 2022 IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP)
-
-- title: Award
-  type: map
-  contents:
-    - name: China's First National College Student Integrated Circuit Innovation and Entrepreneurship Competition, Convolutional Neural Network (CNN) optimization, National 
-      value: Second Prize (third place)
-    - name: The 3rd National College Student Integrated Circuit Innovation and Entrepreneurship Competition
+    - name: Outstanding Poster Award, 1st Place, IPDPS 2023 PhD Forum
+      value: 2023
+    - name: China National Scholarship for Graduate Students (Top 1)
+      value: 2018
+    - name: National College Student Integrated Circuit Innovation and Entrepreneurship Competition
       value: National Second Prize
-    - name: 2018 China National Scholarship for Graduate Students  
-      value: Top 1
-   
 
-- title: Selected Courses at University of Southern California (Ph.D.)
+- title: Professional Service
   type: map
   contents:
-    - name: CSCI-570 Analysis of Algorithms
-      value: my grade A
-    - name: EE-451 Parallel and Distributed Computation
-      value: my grade A
-    - name: EE-457 Computer Systems Organization 
-      value: my grade A
-    - name: CSCI-567 Machine Learning
-      value: my grade A
-    - name: EE-599 Accelerated Computing Using FPGAs 
-      value: my grade A
-    - name: EE-510 Linear Algebra for Engineering
-      value: my grade A
-    - name: EE-557 Computer Systems Architecture
-      value: my grade A
-    - name: EE-503 Probability for Electrical and Computer Engineers 
-      value:  my grade A
-    - name: CSCI-585 Database Systems 
-      value:  my grade A
-    - name: CSCI-561 Foundations of Artificial Intelligence
-      value:  my grade A
-
-
-- title: Selected Courses at Fudan University (Master level)
-  type: map
-  contents:
-    - name: Engineering Mathematics (ICE)
-      value: my grade A
-    - name: Advanced Analog IC Design
-      value: my grade A
-    - name: VLSI Testing and Testable Design
-      value: my grade A-
-    - name: Design and Application of the VLSI Backend
-      value: my grade A
-    - name: Digital Signal Processing VLSI Design
-      value: my grade A
-    - name: IC Reliability and Applications
-      value: my grade A-
-    - name: VLSI Circuit Manufacturing Technology at Nano-scale
-      value: my grade A-
-
-
-- title: Selected Courses at Fudan University (Bachelor level)
-  type: map
-  contents:
-    - name: Integrated Circuit Experiments
-      value: my grade A
-    - name: Digital Integrated Circuit Design
-      value: my grade A
-    - name: Design of Analog Integrated Circuits
-      value: my grade A
-    - name: Computer Vision
-      value: my grade A
-    - name: ASIC Design Methodology
-      value: my grade A
-    - name: Computer Architecture
-      value: my grade A
-    - name: Microcomputer and Interface Experiments
-      value: my grade A-
-    - name: Computer Architecture Software and Interface Technology
-      value:  my grade A
-    - name: Introduction to Digital Signal Processing A
-      value:  my grade A
-    - name: Analog and Digital Circuit Experiments II
-      value:  my grade A-
-    - name: Semiconductor Physics
-      value:  my grade A
-    - name: Signal and Communication System
-      value:  my grade A
-    - name: High Frequency Circuits A
-      value:  my grade A-
-    - name: Analog Circuit
-      value:  my grade A
-    - name: Probability, Mathematical Statistics and Stochastic Process
-      value:  my grade A
-    - name: C++ Programming
-      value:  my grade A
+    - name: Organizing Committee
+      value: FCCM 2023 (Local Arrangements Chair)
+    - name: Technical Program Committee
+      value: INFOCOMP 2023, PESARO 2023
+    - name: Reviewer (80+ reviews)
+      value: IEEE TVLSI, IEEE TIP, IET Computer Vision, IET Image Processing, Neurocomputing, EAAI, Information Sciences, ASAP 2022, ICSICT 2022, ASICON 2021, IEEE International Radar Conference 2023
