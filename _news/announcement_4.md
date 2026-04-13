@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-27 07:59:00-0400
+date: 2024-02-15 07:59:00-0400
 inline: true
 ---
 
-My paper "Dynasparse: Accelerating GNN Inference through Dynamic Sparsity Exploitation" is accepted by 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2023)
+Our paper "GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA" is accepted by 2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM 2024)
